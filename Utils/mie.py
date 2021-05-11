@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+
+# 3rd party imports
 import numpy as np
 from scipy.special import jv, yv
 def coerceDType(d):
